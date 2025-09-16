@@ -1,0 +1,6 @@
+#N canvas 443 249 448 286 10;
+#X obj 110 182 print;
+#X obj 106 130 basename;
+#X msg 127 91 symbol /asdf/asdf/cool;
+#X connect 1 0 0 0;
+#X connect 2 0 1 0;
