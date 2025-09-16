@@ -1,2 +1,2 @@
 # basename
-Pd object for returning basename from a filea path.
+Pd object for returning basename from a file path.
